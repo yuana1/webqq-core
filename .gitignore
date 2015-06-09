@@ -28,3 +28,4 @@ lib
 build.xml
 pom_new.xml
 verify.png
+src/test/java/iqq/im/GroupQzoneQQClientTest.java
