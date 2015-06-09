@@ -202,10 +202,13 @@ public class QQEncryptor {
         }
         return ret;
     }
+<<<<<<< HEAD
     public static void main(String argv[]) {
     	long l = 185318393;
     	System.out.println(QQEncryptor.encrypt2(l, "zky0918", "!DBS"));
     }
     
     
+=======
+>>>>>>> github/master
 }

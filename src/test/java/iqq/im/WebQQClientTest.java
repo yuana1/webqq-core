@@ -68,7 +68,7 @@ public class WebQQClientTest {
      * 程序入口
      */
     public static void main(String[] args) {
-        WebQQClientTest test = new WebQQClientTest("185318393", "zky0918");
+        WebQQClientTest test = new WebQQClientTest("620831700", "password");
         test.login();
     }
 
